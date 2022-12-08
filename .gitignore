@@ -1,0 +1,4 @@
+schema.sql
+.vscode
+.env
+node_modules
